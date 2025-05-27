@@ -1,6 +1,6 @@
-# Jira Automation Scripts for Software Supply Chain Security
+# Jira Automation Scripts 
 
-This repository contains a collection of Python scripts and Jupyter notebooks for automating common Jira tasks related to software supply chain security research and management.
+This repository contains a collection of Python scripts and Jupyter notebooks for automating common Jira tasks related.
 
 ## Contents
 
@@ -70,12 +70,6 @@ The `dev-status-checker.ipynb` notebook checks whether Jira tickets have associa
 - Tokens are not stored in the scripts
 - Always keep your API tokens secure and never commit them to version control
 
-## Future Improvements
-
-- Add more reporting tools for supply chain security metrics
-- Create functionality for bulk ticket updates
-- Implement dashboard visualization for development activities
-- Add support for filtering tickets by project or label
 
 ## Contributing
 
